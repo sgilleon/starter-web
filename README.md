@@ -14,6 +14,10 @@ Another change
 
 ## OTHER
 
+## How To Contribute
+
+Please for this repo and issue Pull Requests for review.
+
 ## Copyright
 
 Git.Training.
