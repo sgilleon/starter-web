@@ -13,3 +13,7 @@ Put some examples here
 Another change
 
 ## OTHER
+
+## Copyright
+
+Git.Training.
