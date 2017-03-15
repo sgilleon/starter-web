@@ -22,4 +22,4 @@ Please for this repo and issue Pull Requests for review.
 
 ## Copyright
 
-Git.Training.
+Git.Training. New info here for stash example
