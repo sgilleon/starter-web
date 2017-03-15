@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shannon Gilleon	sgilleon@gmail.com
 
 # THANKS
 
